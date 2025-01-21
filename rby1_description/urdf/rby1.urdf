@@ -15,7 +15,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/base.dae"/>
+                <mesh filename="package://rby1_description/meshes/base.dae"/>
             </geometry>
         </visual>
     </link>
@@ -31,7 +31,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/WHEEL.dae"/>
+                <mesh filename="package://rby1_description/meshes/WHEEL.dae"/>
             </geometry>
         </visual>
     </link>
@@ -47,7 +47,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/WHEEL.dae"/>
+                <mesh filename="package://rby1_description/meshes/WHEEL.dae"/>
             </geometry>
         </visual>
     </link>
@@ -63,7 +63,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_1.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_1.dae"/>
             </geometry>
         </visual>
         <!-- capsule -> sphere 대체 -->
@@ -86,7 +86,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_2.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_2.dae"/>
             </geometry>
         </visual>
         <!-- capsule -> sphere 대체 -->
@@ -109,7 +109,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_3.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_3.dae"/>
             </geometry>
         </visual>
         <!-- capsule -> sphere 대체 -->
@@ -132,7 +132,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_4.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_4.dae"/>
             </geometry>
         </visual>
     </link>
@@ -148,7 +148,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_5.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_5.dae"/>
             </geometry>
         </visual>
         <!-- capsule -> sphere 대체 -->
@@ -171,7 +171,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_6.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_6.dae"/>
             </geometry>
         </visual>
         <!-- capsule -> sphere 대체 -->
@@ -194,7 +194,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_7.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_7.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -216,7 +216,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_8.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_8.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -238,7 +238,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_9.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_9.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -260,7 +260,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_10.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_10.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -282,7 +282,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_11.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_11.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -304,7 +304,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_12.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_12.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -326,7 +326,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_13.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_13.dae"/>
             </geometry>
         </visual>
     </link>
@@ -342,7 +342,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_14.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_14.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -364,7 +364,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_15.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_15.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -386,7 +386,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_16.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_16.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -408,7 +408,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_17.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_17.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -430,7 +430,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_18.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_18.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -452,7 +452,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_19.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_19.dae"/>
             </geometry>
         </visual>
         <collision>
@@ -474,7 +474,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/LINK_20.dae"/>
+                <mesh filename="package://rby1_description/meshes/LINK_20.dae"/>
             </geometry>
         </visual>
     </link>
@@ -490,7 +490,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/FT_SENSOR_R.dae"/>
+                <mesh filename="package://rby1_description/meshes/FT_SENSOR_R.dae"/>
             </geometry>
         </visual>
     </link>
@@ -506,7 +506,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/FT_SENSOR_L.dae"/>
+                <mesh filename="package://rby1_description/meshes/FT_SENSOR_L.dae"/>
             </geometry>
         </visual>
     </link>
@@ -522,7 +522,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/EE_BODY.dae"/>
+                <mesh filename="package://rby1_description/meshes/EE_BODY.dae"/>
             </geometry>
         </visual>
     </link>
@@ -538,7 +538,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/EE_FINGER.dae"/>
+                <mesh filename="package://rby1_description/meshes/EE_FINGER.dae"/>
             </geometry>
         </visual>
     </link>
@@ -554,7 +554,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/EE_FINGER.dae"/>
+                <mesh filename="package://rby1_description/meshes/EE_FINGER.dae"/>
             </geometry>
         </visual>
     </link>
@@ -570,7 +570,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/EE_BODY.dae"/>
+                <mesh filename="package://rby1_description/meshes/EE_BODY.dae"/>
             </geometry>
         </visual>
     </link>
@@ -586,7 +586,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/EE_FINGER.dae"/>
+                <mesh filename="package://rby1_description/meshes/EE_FINGER.dae"/>
             </geometry>
         </visual>
     </link>
@@ -602,7 +602,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/EE_FINGER.dae"/>
+                <mesh filename="package://rby1_description/meshes/EE_FINGER.dae"/>
             </geometry>
         </visual>
     </link>
@@ -618,7 +618,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/PAN_TILT_1.dae"/>
+                <mesh filename="package://rby1_description/meshes/PAN_TILT_1.dae"/>
             </geometry>
         </visual>
     </link>
@@ -634,7 +634,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/PAN_TILT_2.dae"/>
+                <mesh filename="package://rby1_description/meshes/PAN_TILT_2.dae"/>
             </geometry>
         </visual>
     </link>
@@ -650,7 +650,7 @@
         </inertial>
         <visual>
             <geometry>
-                <mesh filename="package://first_rby1_description/meshes/PAN_TILT_3.dae"/>
+                <mesh filename="package://rby1_description/meshes/PAN_TILT_3.dae"/>
             </geometry>
         </visual>
     </link>
